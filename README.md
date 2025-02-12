@@ -40,9 +40,3 @@ The dataset contains features such as:
 ## Result
 
 The model achieves high accuracy in predicting loan eligibility based on the given dataset. Further optimizations can be done to improve performance.
-## Contact
-
-For any queries, reach out to:
-
-- Author: Jessica-14
-- GitHub: @jessica-14
